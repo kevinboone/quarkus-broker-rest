@@ -1,7 +1,7 @@
-# quarkus-camel-amqp-jdbc
+# quarkus-broker-rest
 
 Version 1.0.0
-Kevin Boone, September 2022
+Kevin Boone, October 2022
 
 ## What is this?
 
